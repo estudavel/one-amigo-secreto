@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Este é um projeto simples de sorteio de Amigo Secreto, onde os usuários podem adicionar nomes a uma lista e realizar um sorteio aleatório.
+Este é um challenge da Oracle Next Education – um projeto de sorteio de Amigo Secreto, onde os usuários podem adicionar nomes a uma lista e realizar um sorteio aleatório.
 
 ## 🚀 Funcionalidades
 - **Adicionar nomes**: O usuário insere nomes na lista através de um campo de entrada.
